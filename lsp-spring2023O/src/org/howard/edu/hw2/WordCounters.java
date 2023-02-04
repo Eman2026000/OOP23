@@ -1,7 +1,7 @@
 package org.howard.edu.hw2;
 
 import java.io.*;
-import org.howard.lsp.utils.FileReader;
+import org.howard.edu.utils.FileReader;
 import java.util.HashMap;
 
 
