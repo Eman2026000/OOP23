@@ -37,7 +37,7 @@ public class IntegerSetTest {
 	
 	
 	@Test
-	@DisplayName("Test case for clear method")
+	@DisplayName("Test case for clear ")
 	public void testClear() {
 		set.add(1);
 		assertEquals(set.length(), 1, "Adding item to integer set must increment the length.");
